@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": { "id": null, "name": "SBS News" },
+      "author": null,
+      "title": "Pap smear Australia: How to get a self-swab test for HPV and cervical cancer - SBS News",
+      "description": "A self-swab vaginal test became available in Australia this year and health experts hope it will boost screening rates and help wipe out HPV and cervical cancer. Here's everything you need to know.",
+      "url": "https://www.sbs.com.au/news/article/pap-smears-are-now-a-lot-easier-in-australia-have-you-done-yours-yet/87h6eafn8",
+      "urlToImage": "https://images.sbs.com.au/dims4/default/8dea2ed/2147483647/strip/true/crop/3073x1729+82+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb8%2Fbd%2F3df5e7d848e8ad26745f9db9b8f3%2F20221206-005139818-ios.JPG",
+      "publishedAt": "2022-12-29T04:22:36Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "India Today" },
+      "author": "Press Trust of India",
+      "title": "Mumbai reports 4 new cases of measles, tally reaches 531 - India Today",
+      "description": "With four more cases of measles, the tally of the viral disease reached 531 in Mumbai on Wednesday. Reportedly, a nine-year-old child recently succumbed to the viral disease in Mumbai.",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/measles-in-mumbai-cases-tally-death-toll-new-update-2314820-2022-12-29",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/gettyimages-508757896-c249ab44a85c4babad7ba2e8055a85fb-sixteen_nine.jpg?VersionId=kBRDjfok1y8o63aYs4VXaV062VhORSiN",
+      "publishedAt": "2022-12-29T04:07:32Z",
+      "content": "By Press Trust of India: Mumbai on Wednesday reported four new cases of measles, taking its tally of the viral disease to 531 cases, the city civic body said.\r\nA nine-year-old unimmunised boy from Ma… [+2003 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India.com" },
+      "author": "ANI",
+      "title": "Have high blood pressure? More than one cup of coffee can be DANGEROUS - check what study claims - Zee News",
+      "description": "7 reasons why garlic should be a part of your daily diet; check how it reduces bad cholesterol, high blood pressure On the harmful side, too much coffee may raise blood pressure and lead to anxiety, heart palpitations, and difficulty sleeping.Our study aimed …",
+      "url": "https://zeenews.india.com/health/have-high-blood-pressure-more-than-one-cup-of-coffee-can-be-dangerous-check-what-study-claims-2555241",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2022/12/29/1135038-coffee-drink-pixa.jpg",
+      "publishedAt": "2022-12-29T02:59:33Z",
+      "content": "Two or more cups of coffee per day may double the risk of death from cardiovascular disease in people with severe high blood pressure (160/100 mm Hg or higher), but not in those with high blood press… [+5514 chars]"
+    },
+    {
+      "source": { "id": null, "name": "News-Medical.Net" },
+      "author": null,
+      "title": "Alveolar macrophages present as antigens to promote virus-specific CD8+ T cell expansion - News-Medical.Net",
+      "description": "The human immune system is a highly complex network of cells, signals, and responses that is tightly regulated to ensure that the body can fight off infection without damaging its own tissues.",
+      "url": "https://www.news-medical.net/news/20221228/Alveolar-macrophages-present-as-antigens-to-promote-virus-specific-CD82b-T-cell-expansion.aspx",
+      "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Respiratory-620x480.jpg",
+      "publishedAt": "2022-12-29T02:35:00Z",
+      "content": "The human immune system is a highly complex network of cells, signals, and responses that is tightly regulated to ensure that the body can fight off infection without damaging its own tissues. Now, r… [+2936 chars]"
+    },
+    {
+      "source": { "id": null, "name": "DNA India" },
+      "author": "DNA Web Team",
+      "title": "Covid-19 4th wave scare: Coronavirus now evolving to attack human brain? - DNA India",
+      "description": "A new study by scientists is challenging assumptions that viruses including Covid-19 become less dangerous as they evolve.",
+      "url": "https://www.dnaindia.com/world/report-covid-19-4th-wave-scare-coronavirus-now-evolving-to-attack-the-brain-china-omicron-subvariant-symptoms-india-3013722",
+      "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/12/29/2563415-pixabay-covid.jpg",
+      "publishedAt": "2022-12-29T01:24:00Z",
+      "content": "Reported By:| Edited By: DNA Web Team |Source: DNA webdesk |Updated: Dec 29, 2022, 07:24 AM ISTThe Covid-19 sub-variant fuelling the unprecedented rise in cases in China may be undergoing a scary cha… [+1749 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WISHTV.com" },
+      "author": null,
+      "title": "Alpilean Reviews Does It Work? Fake Alpine Ice Hack or Real Customer Weight Loss Stories - WISH TV Indianapolis, IN",
+      "description": "Alpilean is a newly released fat-burner supplement with a high […]",
+      "url": "https://www.wishtv.com/sponsored/alpilean-reviews-does-it-work-fake-alpine-ice-hack-or-real-customer-weight-loss-stories/",
+      "urlToImage": "https://www.wishtv.com/wp-content/uploads/2022/12/alpilean-sponsored.jpg",
+      "publishedAt": "2022-12-28T20:40:00Z",
+      "content": "Alpilean is a newly released fat-burner supplement with a high demand and positive customer reviews. Being a new product, it is hard to believe that a dietary supplement like Alpilean can fix the iss… [+18421 chars]"
+    }
+  ]
+}
