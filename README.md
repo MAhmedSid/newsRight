@@ -1,4 +1,4 @@
-# How to test newRight app.
+# How to test newsRight app.
 
 1. You will need to create a .env.local file to store your api key with respected name used in code in api fetch url. You can get your api key free from (Newsapi.org).
 
