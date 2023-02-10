@@ -1,34 +1,47 @@
-# How to test newsRight app.
+# NewsRight App
 
-1. You will need to create a .env.local file to store your api key with respected name used in code in api fetch url. You can get your api key free from (Newsapi.org).
-
-2. After that run command  `npm i` which will install your all packages.
-
-Thats it now you can use this app , you will need to run `npm start` to run this app.
-
-Your suggestions will be appreciated. And also you can add more functionality in the app by using extra params of the api which will give you feel more like your app.
+Bringing you the latest news in many languages about Health, Tech and  other content.
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How to run this app
 
-## Available Scripts
+- You will need to create a enviroment variable in .env.local file to store your api key with respected name that is used in (url) of fetch api. You can get your api key free from (Newsapi.org).
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- After that, run command `npm i` which will install your all packages.
+-Thats it, now you can use this app , you will need to run command `npm start` to run this app.
 
 
-Thank you.
 
 
-M.Ahmed Siddiqui
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variable to your .env file
+
+REACT_APP_NEWS_API
 
 
+## Features
+
+- News in different languages
+- Infinite Scroll Feature
+
+
+## Tech Stack
+
+**Client:** React, Bootstrap5 , React Hooks, News Api
+
+
+
+
+
+## Screenshots
+
+![App Screenshot](screenShot/img1.png)
+
+
+## Author
+
+ Created by [M.Ahmed Siddiqui](https://github.com/MAhmedSid)
 
