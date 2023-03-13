@@ -41,7 +41,7 @@ REACT_APP_NEWS_API
 ![App Screenshot](screenShot/img1.png)
 
 
-## Author
+## Creatot
 
  Created by [M.Ahmed Siddiqui](https://github.com/MAhmedSid)
 
